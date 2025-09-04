@@ -11,7 +11,7 @@ IFS=$'\n\t'
 
 # 全局变量
 SCRIPT_NAME="eralink"
-REPO_NAME="404nyaFound/eralink"
+REPO_NAME="Moyuuathise/eralink"
 ROOT=$(cd "/data/data/com.termux/files/home" && pwd)
 APP_DIR="$ROOT/$SCRIPT_NAME"
 ZIP_FILE="$ROOT/eralink.zip"
